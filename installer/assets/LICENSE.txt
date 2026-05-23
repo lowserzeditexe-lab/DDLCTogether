@@ -1,0 +1,14 @@
+DDLC Together — License placeholder
+
+This software is a fan-made multiplayer layer for the freeware game
+Doki Doki Literature Club! (Team Salvato, 2017).
+
+DDLC Together is distributed under the terms of the MIT License (see
+LICENSE in the source repository).
+
+The base game "Doki Doki Literature Club!" remains the property of
+Team Salvato and is bundled here under the terms of its IP Guidelines
+which permit non-commercial mods and redistribution of unmodified
+copies.
+
+By installing this software you agree to these terms.

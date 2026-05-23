@@ -1,0 +1,28 @@
+# dependencies
+**/node_modules/
+**/.yarn/
+
+# builds
+client/dist/
+server/dist/
+build/
+launcher/__pycache__/
+**/.pytest_cache/
+
+# vendor blobs (large or IP-restricted, see README)
+vendor/
+installer/vendor/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+*.env
+credentials.json
+*.pem
+*.key
+.credentials

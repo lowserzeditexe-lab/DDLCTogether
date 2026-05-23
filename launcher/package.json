@@ -1,0 +1,15 @@
+{
+  "name": "ddlc-together-launcher",
+  "version": "1.0.0",
+  "private": true,
+  "bin": "launcher.js",
+  "scripts": {
+    "build:win": "pkg . --targets node18-win-x64 --output ../build/launcher.exe"
+  },
+  "pkg": {
+    "scripts": ["launcher.js"]
+  },
+  "devDependencies": {
+    "pkg": "5.8.1"
+  }
+}
